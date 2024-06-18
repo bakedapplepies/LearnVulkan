@@ -1,0 +1,152 @@
+[
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\context.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\context.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\init.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\init.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\input.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\input.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\monitor.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\monitor.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\platform.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\platform.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\vulkan.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\vulkan.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\window.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\window.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\egl_context.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\egl_context.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\osmesa_context.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\osmesa_context.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\null_init.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\null_init.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\null_monitor.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\null_monitor.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\null_window.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\null_window.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\null_joystick.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\null_joystick.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_module.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_module.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_time.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_time.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_thread.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_thread.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_init.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_init.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_joystick.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_joystick.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_monitor.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_monitor.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_window.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\win32_window.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\cc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/src -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src -g -std=c99 -Wall -o vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\wgl_context.c",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glfw\\src\\wgl_context.c",
+  "output": "vendor\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\clang++.exe -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glm -g -std=c++20 -Wno-c++98-compat -Wno-c++98-compat-pedantic @vendor\\glm\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj.modmap -o vendor\\glm\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glm\\glm\\detail\\glm.cpp",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\glm\\glm\\detail\\glm.cpp",
+  "output": "vendor\\glm\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\clang++.exe -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include -g -std=gnu++20 @vendor\\fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj.modmap -o vendor\\fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\fmt\\src\\format.cc",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\fmt\\src\\format.cc",
+  "output": "vendor\\fmt\\CMakeFiles\\fmt.dir\\src\\format.cc.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\clang++.exe -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include -g -std=gnu++20 @vendor\\fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj.modmap -o vendor\\fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\fmt\\src\\os.cc",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\vendor\\fmt\\src\\os.cc",
+  "output": "vendor\\fmt\\CMakeFiles\\fmt.dir\\src\\os.cc.obj"
+},
+{
+  "directory": "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug",
+  "command": "C:\\MinGW-W64\\MinGW-W64\\bin\\clang++.exe -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/FMT/include -ID:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include -g -std=gnu++20 @src\\CMakeFiles\\VulkanTest.dir\\main.cpp.obj.modmap -o src\\CMakeFiles\\VulkanTest.dir\\main.cpp.obj -c D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\src\\main.cpp",
+  "file": "D:\\JohnB\\Programming\\C++\\Vulkan\\VulkanTest\\src\\main.cpp",
+  "output": "src\\CMakeFiles\\VulkanTest.dir\\main.cpp.obj"
+}
+]
