@@ -1,8 +1,8 @@
-# Install script for directory: D:/JohnB/Programming/C++/Vulkan/VulkanTest
+# Install script for directory: D:/JohnB/Dev/Graphics/LearnVulkan
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Project")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/VulkanTest")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,12 +39,12 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/cmake_install.cmake")
+  include("D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/src/cmake_install.cmake")
+  include("D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/src/cmake_install.cmake")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -55,5 +55,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

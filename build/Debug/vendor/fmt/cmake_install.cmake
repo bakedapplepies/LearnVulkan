@@ -1,8 +1,8 @@
-# Install script for directory: D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt
+# Install script for directory: D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Project")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/VulkanTest")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -38,32 +38,32 @@ if(NOT DEFINED CMAKE_OBJDUMP)
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/fmt/libfmtd.a")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib" TYPE STATIC_LIBRARY FILES "D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/fmt/libfmtd.a")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include/fmt" TYPE FILE FILES
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/args.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/base.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/chrono.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/color.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/compile.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/core.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/format.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/format-inl.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/os.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/ostream.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/printf.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/ranges.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/std.h"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/fmt/include/fmt/xchar.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/args.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/base.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/chrono.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/color.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/compile.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/core.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/format.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/format-inl.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/os.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/ostream.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/printf.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/ranges.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/std.h"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/vendor/fmt/include/fmt/xchar.h"
     )
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
   file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/fmt/fmt-config.cmake"
-    "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/fmt/fmt-config-version.cmake"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/fmt/fmt-config.cmake"
+    "D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/fmt/fmt-config-version.cmake"
     )
 endif()
 
@@ -71,7 +71,7 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets.cmake")
     file(DIFFERENT _cmake_export_file_changed FILES
          "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets.cmake"
-         "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/fmt/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake")
+         "D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/fmt/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake")
     if(_cmake_export_file_changed)
       file(GLOB _cmake_old_config_files "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt/fmt-targets-*.cmake")
       if(_cmake_old_config_files)
@@ -84,13 +84,13 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
     endif()
     unset(_cmake_export_file_changed)
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/fmt/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/fmt/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets.cmake")
   if(CMAKE_INSTALL_CONFIG_NAME MATCHES "^([Dd][Ee][Bb][Uu][Gg])$")
-    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/fmt/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets-debug.cmake")
+    file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/cmake/fmt" TYPE FILE FILES "D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/fmt/CMakeFiles/Export/b834597d9b1628ff12ae4314c3a2e4b8/fmt-targets-debug.cmake")
   endif()
 endif()
 
 if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/fmt/fmt.pc")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/lib/pkgconfig" TYPE FILE FILES "D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/fmt/fmt.pc")
 endif()
 

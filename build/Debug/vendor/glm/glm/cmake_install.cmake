@@ -1,8 +1,8 @@
-# Install script for directory: D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glm/glm
+# Install script for directory: D:/JohnB/Dev/Graphics/LearnVulkan/vendor/glm/glm
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Project")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/VulkanTest")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 

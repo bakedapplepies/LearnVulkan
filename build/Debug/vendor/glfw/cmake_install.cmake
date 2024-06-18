@@ -1,8 +1,8 @@
-# Install script for directory: D:/JohnB/Programming/C++/Vulkan/VulkanTest/vendor/glfw
+# Install script for directory: D:/JohnB/Dev/Graphics/LearnVulkan/vendor/glfw
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Project")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/VulkanTest")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("D:/JohnB/Programming/C++/Vulkan/VulkanTest/build/Debug/vendor/glfw/src/cmake_install.cmake")
+  include("D:/JohnB/Dev/Graphics/LearnVulkan/build/Debug/vendor/glfw/src/cmake_install.cmake")
 endif()
 
