@@ -6,7 +6,16 @@ class VulkanInstance
 {
 private:
     VkInstance m_vkInstance;
+    VkDebugUtilsMessengerEXT m_debugMessenger;
 
 public:
-    VulkanInstance();
+    VulkanInstance() = default;
+    void Create();
+    void Destroy();
+    const VkInstance* GetVKInstance() const;
+
+private:
+    void SetupDebugMessenger();
+    void PopulateDebugMessengerInfo(VkDebugUtilsMessengerCreateInfoEXT* dbg_messenger_info);
+    std::vector<const char*> GetRequiredExtensions();
 };

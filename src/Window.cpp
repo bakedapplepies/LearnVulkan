@@ -15,10 +15,25 @@ void Window::Init()
 
     GLFWwindow* m_window = glfwCreateWindow(m_width, m_height, m_window_name, nullptr, nullptr);
 
+    VulkanInit();
     while (!glfwWindowShouldClose(m_window))
     {
         glfwPollEvents();
     }
+    VulkanCleanUp();
+    
+}
+
+void Window::VulkanInit()
+{
+    m_vulkanInstance.Create();
+    m_vulkanDevice.PickPhysicalDevice(m_vulkanInstance.GetVKInstance());
+}
+
+void Window::VulkanCleanUp()
+{
+    m_vulkanInstance.Destroy();
+    // VulkanDevice is deleted implicitly
 }
 
 void Window::Shutdown()

@@ -4,5 +4,11 @@
 #include <iostream>
 #include <vector>
 #include <cassert>
+#include <cstring>
+#include <unordered_map>
+#include <memory>
+#include <fstream>
+#include <sstream>
+#include <optional>
 
 #include <fmt/format.h>
